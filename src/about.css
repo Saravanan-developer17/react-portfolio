@@ -1,0 +1,9 @@
+#about{
+    background: linear-gradient(#8d4360, #f8d2da 100%);
+}
+
+#about h1{
+    font-weight: 700;
+    font-size: 50px;
+    color: rgb(48, 13, 13);
+}
